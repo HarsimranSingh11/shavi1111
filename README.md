@@ -26,6 +26,10 @@ The Comic Mailer let you read and enjoy new comics every five minutes.
 
 HTML, CSS and PHP are the programming languages mainly used in "The Comic Mailer".
 
+## Authors
+
+- [@Harsimran Singh](https://github.com/HarsimranSingh11)
+
 
 ## Color Reference
 
