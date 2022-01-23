@@ -41,7 +41,7 @@ HTML, CSS and PHP are the programming languages mainly used in "The Comic Mailer
 | White | ![#FFFFFF](https://via.placeholder.com/10/FFFFFF?text=+) #FFFFFF |
 
 
-## Screenshots
+## Working of The Comic Mailer
 This is the First page user will see..
 ![First Page](https://i.pinimg.com/originals/4b/7b/df/4b7bdf9766bef87e734cb7dd0774ba3d.jpg)
 
