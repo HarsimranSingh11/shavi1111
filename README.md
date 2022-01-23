@@ -12,10 +12,12 @@ The Comic Mailer is an Automatic Comic Mailer, "The Comic Mailer" let user to re
 
 **Database:** MySQL
 
+**Deployment:** Heroku App
+
 
 ## Live Demo
 
-https://www.google.com/gmail/
+https://shavi1111.herokuapp.com/
 ## FAQ
 
 #### What is the use of "The Comic Mailer"?
