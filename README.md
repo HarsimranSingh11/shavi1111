@@ -43,14 +43,14 @@ HTML, CSS and PHP are the programming languages mainly used in "The Comic Mailer
 
 ## Working of The Comic Mailer
 This is the First page user will see..
-![First Page](https://i.pinimg.com/originals/4b/7b/df/4b7bdf9766bef87e734cb7dd0774ba3d.jpg)
+![First Page](https://i.pinimg.com/originals/ef/f9/d0/eff9d0af64fa018dd7a814d2a2774bb5.jpg)
 
 This is How Page looks after filling email..
-![Adding Mail](https://i.pinimg.com/originals/15/7e/05/157e0594c6387535416e1438738e8e93.jpg)
+![Adding Mail](https://i.pinimg.com/originals/fd/05/77/fd05770510c3f9141cd77781c16ded7b.jpg)
 
 After Sending Email to user->
 
-![Mail Sent Verification](https://i.pinimg.com/originals/79/33/59/793359dfb96b32b9af1eaf8ab6c1fa76.jpg)
+![Mail Sent Verification](https://i.pinimg.com/originals/72/fc/ab/72fcab79fc72ab7e600ee9c7410f286b.jpg)
 
 Checking Mail....
 ![Mail Recieved](https://i.pinimg.com/originals/e0/82/9c/e0829cf5c004e525dfb626f103882a9e.jpg)
@@ -65,4 +65,4 @@ After Clicking Unsubscribe button in Mail....
 ![UnSubscribe](https://i.pinimg.com/originals/d2/ee/74/d2ee7448e6bd1743817e82c2e68fbb01.jpg)
 
 After Clicking on Subscribe button in Unsubscribe Page, The User will redirect to the main front page....
-![Index Page](https://i.pinimg.com/originals/4b/7b/df/4b7bdf9766bef87e734cb7dd0774ba3d.jpg)
+![Index Page](https://i.pinimg.com/originals/ef/f9/d0/eff9d0af64fa018dd7a814d2a2774bb5.jpg)
